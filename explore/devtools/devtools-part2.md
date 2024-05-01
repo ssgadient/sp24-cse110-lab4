@@ -1,0 +1,2 @@
+Question 1: num1 and num2 are type string, so when they are added, the result is simply num1 concatenated with num2. \
+Question 2: I converted num1 and num2 to numbers using Number() and then added, producing the correct result. Of course, we would have to run a check to make sure that num1 and num2 are valid, which I haven't done, but it is possible to do so. \
